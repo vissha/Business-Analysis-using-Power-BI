@@ -1,0 +1,12 @@
+What is Customer Life Time Value ? 				
+
+It is the total amount of revenue a business can expect to earn from a customer over the entire period they remain a customer.				
+
+It is calculates as => Average amount a customer pay * Average no. of transaction * no. of years customer active 
+
+Pros:
+
+1 - It tells us the behaviour of our customers that helps us to plan how much to spend to acquire customers.
+
+2 - it is Helpful to project the revenue for business planning.
+				
